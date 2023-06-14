@@ -21,7 +21,16 @@
 
   ## GitHub Repo
 
+  https://github.com/joshsandquist/note-taker
+
+  ## Deployed Application
+
+  
+
   ## Screenshots
+
+  <img width="1512" alt="Screenshot 2023-06-14 at 3 53 47 PM" src="https://github.com/joshsandquist/note-taker/assets/104536533/fcb1b6ad-4543-48c3-9b86-aa67e41f7cb7">
+
 
   ## Contributing
   N/A
